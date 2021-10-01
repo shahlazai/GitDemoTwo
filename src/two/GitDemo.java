@@ -12,6 +12,9 @@ public class GitDemo {
 			
 		}else {
 			System.out.println("xyz");
+			
+			int a = 10;
+			
 		}
 	}
 
